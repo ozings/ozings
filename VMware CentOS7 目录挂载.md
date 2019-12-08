@@ -4,7 +4,7 @@ VMware CentOS7 目录挂载
 ## 首先查看设置的共享文件夹
 ~~~
 [root@localhost mnt]# vmware-hgfsclient
-[root@localhost mnt]# webroot
+webroot
 ~~~
 
 ## 只使用一次共享文件夹
